@@ -27,6 +27,7 @@
 - [NLP course by hugging face](https://huggingface.co/learn/nlp-course/chapter1/1)
 - [Transformer from Scratch](https://e2eml.school/transformers.html)
 - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
+- [Some Intuition on Attention and the Transformer](https://eugeneyan.com/writing/attention/#references)
 
 ## LLM In Production
 - [Building LLM applications for production by Chip Huyen](https://huyenchip.com/2023/04/11/llm-engineering.html)
