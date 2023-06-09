@@ -1,5 +1,7 @@
 # Yet Another LLM Repo
 
+Different resources on Large Language Model (LLM) which I am using or planning to use.
+
 ## Getting Started
 - [Getting Started using OpenAI API](https://platform.openai.com/docs/quickstart)
 - [Question answering over your data using embedding](https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb)
