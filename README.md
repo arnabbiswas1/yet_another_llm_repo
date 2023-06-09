@@ -41,10 +41,12 @@
 - [List of LLMs used for commercial use](https://github.com/eugeneyan/open-llms)
 
 ## Intresting Talks
-- [State of GPT - Microsoft Build ' 2023 Talk](https://www.youtube.com/watch?v=bZQun8Y4L2A)
+- [State of GPT by Andrej Karpathy - Microsoft Build ' 2023 Talk](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
 ## Intresting Links
 - [How ChatGPT works: a deep dive](https://typefully.com/DanHollick/yA3ppZC)
+- [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
+- [Understanding Large Language Models -- A Transformative Reading List by Sebastian Raschka](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
 
 ## Document QA
 
@@ -53,5 +55,8 @@
 - [Massively Multilingual Speech by facebook research](https://github.com/facebookresearch/fairseq/tree/main/examples/mms) (CC-BY-NC 4.0)
 
 ## Azure OpenAI
+- [documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
+- [end to end solutions using openai and azure](https://github.com/Azure-Samples/openai)
+- [Deployment of an Enterprise Azure OpenAI reference architecture](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/log-monitor-azure-openai)
 
 ## LLM Use Cases
