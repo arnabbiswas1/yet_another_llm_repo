@@ -47,7 +47,7 @@ Different resources on Large Language Model (LLM) which I am using or planning t
 - [State of GPT by Andrej Karpathy - Microsoft Build ' 2023 Talk](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
 ## Intresting Links
-- [How ChatGPT works: a deep dive](https://typefully.com/DanHollick/yA3ppZC)
+- [What Is ChatGPT Doing … and Why Does It Work? by Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
 - [Understanding Large Language Models -- A Transformative Reading List by Sebastian Raschka](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
 
