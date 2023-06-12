@@ -17,6 +17,7 @@ Different resources on Large Language Model (LLM) which I am using or planning t
 ## Prompt Engineering Resources
 - [GPT best practices by openai](https://platform.openai.com/docs/guides/gpt-best-practices)
 - [Suggestions by openai-cookbook](https://github.com/openai/openai-cookbook#prompting-guides)
+- [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
 
 ## Tools
 - [Langchain](https://langchain.readthedocs.io/)
