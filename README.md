@@ -52,6 +52,7 @@ Different resources on Large Language Model (LLM) which I am using or planning t
 - [Understanding Large Language Models -- A Transformative Reading List by Sebastian Raschka](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
 
 ## Document QA
+- [Grounding LLMs](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/grounding-llms/ba-p/3843857)
 
 ## Automatic Speech Recognition
 - whisper by openai ([openai doc](https://platform.openai.com/docs/guides/speech-to-text), [github](https://github.com/openai/whisper), [model-card](https://github.com/openai/whisper/blob/main/model-card.md))
