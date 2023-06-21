@@ -62,5 +62,5 @@ Different resources on Large Language Model (LLM) which I am using or planning t
 - [documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
 - [end to end solutions using openai and azure](https://github.com/Azure-Samples/openai)
 - [Deployment of an Enterprise Azure OpenAI reference architecture](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/log-monitor-azure-openai)
-
+- [Bring your own data: Concepts](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/use-your-data)
 ## LLM Use Cases
