@@ -63,4 +63,7 @@ Different resources on Large Language Model (LLM) which I am using or planning t
 - [end to end solutions using openai and azure](https://github.com/Azure-Samples/openai)
 - [Deployment of an Enterprise Azure OpenAI reference architecture](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/log-monitor-azure-openai)
 - [Bring your own data: Concepts](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/use-your-data)
-## LLM Use Cases
+
+## Agents
+- [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+- [Harrison Chase's talk on Agents](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/chase-agents/)
