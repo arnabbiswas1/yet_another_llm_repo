@@ -50,6 +50,7 @@ Different resources on Large Language Model (LLM) which I am using or planning t
 - [What Is ChatGPT Doing … and Why Does It Work? by Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
 - [Understanding Large Language Models -- A Transformative Reading List by Sebastian Raschka](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
+- [Emerging Architectures for LLM Applications by a16z](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 
 ## Document QA
 - [Grounding LLMs](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/grounding-llms/ba-p/3843857)
