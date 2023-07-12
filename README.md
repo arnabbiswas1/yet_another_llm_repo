@@ -43,6 +43,9 @@ Different resources on Large Language Model (LLM) which I am using or planning t
 - [LLM Ecosystem by Stanford Center for Research on Foundation Models](https://crfm.stanford.edu/ecosystem-graphs/)
 - [List of LLMs used for commercial use](https://github.com/eugeneyan/open-llms)
 
+## Evaluation of LLMs
+- [All about evaluating Large language models](https://explodinggradients.com/all-about-evaluating-large-language-models)
+
 ## Intresting Talks
 - [State of GPT by Andrej Karpathy - Microsoft Build ' 2023 Talk](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
