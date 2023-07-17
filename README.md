@@ -44,10 +44,14 @@ Different resources on Large Language Model (LLM) which I am using or planning t
 - [List of LLMs used for commercial use](https://github.com/eugeneyan/open-llms)
 
 ## Evaluation of LLMs
+- [How to Evaluate, Compare, and Optimize LLM Systems - Weights & Biases](https://wandb.ai/ayush-thakur/llm-eval-sweep/reports/How-to-Evaluate-Compare-and-Optimize-LLM-Systems--Vmlldzo0NzgyMTQz)
 - [All about evaluating Large language models](https://explodinggradients.com/all-about-evaluating-large-language-models)
 - [openai-evals](https://github.com/openai/evals)
 - [langchain-evals](https://docs.langchain.com/docs/use-cases/evaluation)
 - [Paper: A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
+
+## Evaluation Metrics
+- [Paper: Semantic Answer Similarity for Evaluating Question Answering Models](https://arxiv.org/abs/2108.06130)
 - [Evaluating Language Model Bias with 🤗 Evaluate](https://huggingface.co/blog/evaluating-llm-bias)
 
 ## Intresting Talks
