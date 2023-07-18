@@ -45,13 +45,16 @@ Different resources on Large Language Model (LLM) which I am using or planning t
 - [List of LLMs used for commercial use](https://github.com/eugeneyan/open-llms)
 
 ## Evaluation of LLMs/LLM based systems
+
+The way we evaluate a LLM and a system built using LLM are different. Here I am going to focus mostly on evaluation methodologies used for LLM based systems
+
 - [How to Evaluate, Compare, and Optimize LLM Systems - Weights & Biases](https://wandb.ai/ayush-thakur/llm-eval-sweep/reports/How-to-Evaluate-Compare-and-Optimize-LLM-Systems--Vmlldzo0NzgyMTQz) ⭐
 - [Evaluating LLM-based Applications: Workshop by Josh Tobin](https://www.youtube.com/watch?v=r-HUnht-Gns) ⭐
-- [All about evaluating Large language models](https://explodinggradients.com/all-about-evaluating-large-language-models)
 - [Paper: A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109)
+- [All about evaluating Large language models](https://explodinggradients.com/all-about-evaluating-large-language-models)
 - Tools and Libs
-  - [openai-evals](https://github.com/openai/evals)
-  - [langchain-evals](https://docs.langchain.com/docs/use-cases/evaluation) 
+  - [openai-evals](https://github.com/openai/evals): A framework for evaluating LLMs (large language models) or systems built using LLMs as components
+  - [langchain-evals](https://python.langchain.com/docs/guides/evaluation/#the-examples): Evaluation using LangChain as a framework. Make sure to check the examples. Also read the source code for the example prompts
 - Metrics
   - [Paper: Semantic Answer Similarity for Evaluating Question Answering Models](https://arxiv.org/abs/2108.06130)
   - [Evaluating Language Model Bias with 🤗 Evaluate](https://huggingface.co/blog/evaluating-llm-bias)
