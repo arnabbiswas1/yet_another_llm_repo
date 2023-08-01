@@ -55,6 +55,8 @@ The way we evaluate a LLM and a system built using LLM are different. Here I am 
 - Tools and Libs
   - [openai-evals](https://github.com/openai/evals): A framework for evaluating LLMs (large language models) or systems built using LLMs as components
   - [langchain-evals](https://python.langchain.com/docs/guides/evaluation/#the-examples): Evaluation using LangChain as a framework. Make sure to check the examples. Also read the source code for the example prompts
+  - [lang-kit](https://github.com/whylabs/langkit/tree/main) - Library
+  - [langsmith](https://docs.smith.langchain.com/)
 - Metrics
   - [Paper: Semantic Answer Similarity for Evaluating Question Answering Models](https://arxiv.org/abs/2108.06130)
   - [Evaluating Language Model Bias with 🤗 Evaluate](https://huggingface.co/blog/evaluating-llm-bias)
