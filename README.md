@@ -100,6 +100,7 @@ The way we evaluate a LLM and a system built using LLM are different. Here I am 
 
 - [Evaluating LLM-based Applications: Workshop by Josh Tobin](https://www.youtube.com/watch?v=r-HUnht-Gns) ⭐
 - [How to Evaluate, Compare, and Optimize LLM Systems - Weights & Biases](https://wandb.ai/ayush-thakur/llm-eval-sweep/reports/How-to-Evaluate-Compare-and-Optimize-LLM-Systems--Vmlldzo0NzgyMTQz) ⭐
+- [Using LLMs To Evaluate LLMs](https://medium.com/arize-ai/using-llms-to-evaluate-llms-c69da454048c)
 
 #### Tools
   - [Azure Promptflow](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/overview-what-is-prompt-flow?view=azureml-api-2): Service to evaluate and track LLM Experiments
