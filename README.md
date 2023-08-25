@@ -5,8 +5,9 @@ I am a Machine Learning Engineer/Software Developer exploring LLM for last few m
 Not sure if you should explore LLM? Start with this highly motivational post :[The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer)
 
 ## What is LLM/GPT?
-  - [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with) ⭐⭐
-  - [State of GPT by Andrej Karpathy - Microsoft Build ' 2023 Talk](https://www.youtube.com/watch?v=bZQun8Y4L2A) ⭐⭐
+  - [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms) ⭐⭐: First thing first. Lot of things have already happened around LLM. This post (or youtube video, if you prefer) by Simon Willson will help you in catching up from the end user perspective. 
+  - [State of GPT by Andrej Karpathy - Microsoft Build ' 2023 Talk](https://www.youtube.com/watch?v=bZQun8Y4L2A) ⭐⭐: This talk captures most of the progress made from the technical perspective.
+  - [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with) ⭐⭐: If you want understand how language model works (intutively), check this out. No harm, if you skip it.
 
 ## Getting Started
 If you are already familiar with [ChatGPT](https://chat.openai.com/) and want to get started with LLM (to build an application around it or to understand its capabilities), you might want to try OpenAI Playground and APIs. On [signing up at OpenAI](https://platform.openai.com/signup), you will be allocated with certain amount of free quota (to use the service) which is more than sufficient to build your first prototype. Save your API Key.
@@ -47,7 +48,7 @@ GPT's by OpenAI are not the only LLMs available. There are other commercial and 
   - [LLM Ecosystem by Stanford Center for Research on Foundation Models](https://crfm.stanford.edu/ecosystem-graphs/)
 
 ## Use Cases for LLM
-langchain documentation mostly captures the popular use cases: [link](https://docs.langchain.com/docs/category/use-cases)
+langchain documentation captures most of the popular use cases: [link](https://docs.langchain.com/docs/category/use-cases)
 
 ## Use Case : Retrieval-Augmented Generation / Document QA
 Probably the most popular application of LLM: Build a ChatBot on your private data. But remember, semantic based search doesn't always work  
