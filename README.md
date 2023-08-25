@@ -114,6 +114,7 @@ The way we evaluate a LLM and a system built using LLM are different. Here I am 
   - [Generative AI Strategy](https://huyenchip.com/2023/06/07/generative-ai-strategy.html) ⭐
   - [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
   - Blogs from replit: [here](https://blog.replit.com/llms) & [there](https://blog.replit.com/llm-training)
+  - [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
   
 ## Azure OpenAI
   - [Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
