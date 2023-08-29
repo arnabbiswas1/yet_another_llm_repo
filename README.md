@@ -93,6 +93,7 @@ Probably the most popular application of LLM: Build a ChatBot on your private da
 ## Automatic Speech Recognition
   - whisper by openai ([openai doc](https://platform.openai.com/docs/guides/speech-to-text), [github](https://github.com/openai/whisper), [model-card](https://github.com/openai/whisper/blob/main/model-card.md))
   - [Massively Multilingual Speech by facebook research](https://github.com/facebookresearch/fairseq/tree/main/examples/mms) (CC-BY-NC 4.0)
+  - [SeamlessM4T](https://github.com/facebookresearch/seamless_communication)
 
 ## Evaluation of LLMs/LLM based systems
 The way we evaluate a LLM and a system built using LLM are different. Here I am going to focus mostly on evaluation methodologies used for LLM based systems
