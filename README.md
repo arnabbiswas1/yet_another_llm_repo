@@ -13,7 +13,7 @@ Not sure if you should explore LLM? Start with this highly motivational post :[T
 If you are already familiar with [ChatGPT](https://chat.openai.com/) and want to get started with LLM (to build an application around it or to understand its capabilities), you might want to try OpenAI Playground and APIs. On [signing up at OpenAI](https://platform.openai.com/signup), you will be allocated with certain amount of free quota (to use the service) which is more than sufficient to build your first prototype. Save your API Key.
 
 - [Getting Started using OpenAI API](https://platform.openai.com/docs/quickstart) ⭐: This will in turn take you to [playground](https://platform.openai.com/playground). You don't need to write any code. Start here!
-- [openai-cookbook](https://github.com/openai/openai-cookbook)⭐: Example code for accomplishing common tasks with OpenAI. If you are a developer, this is going to be your go-to place.
+- [openai-cookbook](https://cookbook.openai.com/)⭐: Example code for accomplishing common tasks with OpenAI. If you are a developer, this is going to be your go-to place.
 
 If you are located in US/UK, [Claude-2](https://claude.ai/login) by Anthropic is another option. As of Aug'2023, I have not used Claude, since it's not available in India.
 
@@ -26,7 +26,7 @@ Third option is to use Azure OpenAI. This is only available for Azure Enterprise
 ## Prompt Engineering Resources
 - [GPT best practices by OpenAI](https://platform.openai.com/docs/guides/gpt-best-practices) ⭐
 - [Prompt engineering techniques by Azure](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions) ⭐
-- [Prompting guides suggested by openai-cookbook](https://github.com/openai/openai-cookbook#prompting-guides)
+- [Prompting guides suggested by openai-cookbook](https://github.com/openai/openai-cookbook/blob/main/related_resources.md#prompting-guides)
 
 My suggestion would be not to spend lot of time going through different prompt engineering courses and guides. "GPT best practices by OpenAI" is more than enough. Browse through other resources on the need basis.
 
@@ -36,7 +36,7 @@ There are a bunch of Open Source libraries, frameworks that have been developed 
   - [Langchain](https://langchain.readthedocs.io/) ⭐
   - [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/)
   - [gradio](https://gradio.app/creating-a-chatbot/)
-  - [Suggestions by openai-cookbook](https://github.com/openai/openai-cookbook#prompting-libraries--tools)
+  - [Suggestions by openai-cookbook](https://github.com/openai/openai-cookbook/blob/main/related_resources.md#prompting-libraries--tools)
 
 ## What are different LLMs available and how ?
 GPT's by OpenAI are not the only LLMs available. There are other commercial and Open Source models which you might be interested in. Following are the leaderboards to compare the performance of various LLMs:
@@ -63,8 +63,8 @@ Probably the most popular application of LLM: Build a ChatBot on your private da
   - [deeplearning.ai: Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
 
 #### Code Examples
-  - [openai-cookbook: Question answering over your data using embedding](https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb) ⭐
-  - [Question answering using a search API and re-ranking](https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_a_search_API.ipynb)
+  - [openai-cookbook: Question answering over your data using embedding](https://cookbook.openai.com/examples/question_answering_using_embeddings) ⭐
+  - [Question answering using a search API and re-ranking](https://cookbook.openai.com/examples/question_answering_using_a_search_api)
 
 #### Tools/Frameworks
   - [Langchain](https://langchain.readthedocs.io/) ⭐
@@ -86,8 +86,8 @@ Probably the most popular application of LLM: Build a ChatBot on your private da
 
 #### Code Examples
 
-  - [openai-cookbook: How to call functions with chat models](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_call_functions_with_chat_models.ipynb)
-  - [openai-cookbook: How to build a tool-using agent with LangChain](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_build_a_tool-using_agent_with_Langchain.ipynb)
+  - [openai-cookbook: How to call functions with chat models](https://cookbook.openai.com/examples/how_to_call_functions_with_chat_models)
+  - [openai-cookbook: How to build a tool-using agent with LangChain](https://cookbook.openai.com/examples/how_to_build_a_tool-using_agent_with_langchain)
   - [Agents Documentation by langchain](https://docs.langchain.com/docs/components/agents/)
 
 ## Automatic Speech Recognition
