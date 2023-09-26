@@ -21,6 +21,7 @@ Third option is to use Azure OpenAI. This is only available for Azure Enterprise
 
 ## Online Courses
 - [Short Courses by deeplearning.ai](https://www.deeplearning.ai/short-courses/) ⭐: If you are a developer, these super short courses, will help you get started immediately. Start with the [PromptEngineering course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/), then based on your area of interest, go through other courses. You will need the OpenAI API Keys to try out the tutorials.
+- [A Hackers' Guide to Language Models] by Jeremy Howard(https://www.youtube.com/watch?v=jkrNMKz9pWU) - 90 minutes introduction to LLM ⭐
 - [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) ⭐: A bunch of session recorded in April 2023. Highly recommended.
 
 ## Prompt Engineering Resources
@@ -42,10 +43,10 @@ There are a bunch of Open Source libraries, frameworks that have been developed 
 GPT's by OpenAI are not the only LLMs available. There are other commercial and Open Source models which you might be interested in. Following are the leaderboards to compare the performance of various LLMs:
 
   - [Leaderboard by lmsys](https://chat.lmsys.org/?leaderboard) ⭐
-  - [MMLU Leaderboard](https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu)
+  - [FastEval](https://fasteval.github.io/FastEval/) ⭐
   - [Open Source LLM Leaderboard by huggingface](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) ⭐
+  - [MMLU Leaderboard](https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu)
   - [AlpacaEval: An Automatic Evaluator for Instruction-following Language Models](https://tatsu-lab.github.io/alpaca_eval/)
-  - [LLM Ecosystem by Stanford Center for Research on Foundation Models](https://crfm.stanford.edu/ecosystem-graphs/)
 
 ## Use Cases for LLM
 langchain documentation captures most of the popular use cases: [link](https://docs.langchain.com/docs/category/use-cases)
